@@ -104,7 +104,7 @@ qBittorrent é um cliente de torrent de código aberto e gratuito, conhecido pel
 - [Código aberto](https://github.com/qbittorrent)
 - Sem anúncios
 - Gratuito
-- 
+
 **Observação:**
 
 Para preservar a privacidade ao usar um cliente torrent, é fundamental utilizar uma VPN. Ela oculta seu endereço IP, criptografa o tráfego de dados e protege contra possíveis monitoramentos, assegurando um compartilhamento de arquivos mais seguro.
@@ -120,3 +120,10 @@ O SeedSigner é um projeto de código aberto que facilita a geração segura de 
 ### [Software Wallet Sparrow](https://sparrowwallet.com)
 Sparrow é uma carteira de software de criptomoedas focada em segurança e usabilidade, oferecendo controle total das chaves privadas e suporte para várias moedas digitais.
 - [Código aberto](https://github.com/sparrowwallet)
+
+### Swaps
+Não é exigido criar conta nos serviços mencionados abaixo.
+- Lightning Network para Bitcoin On-chain
+  - [eXch](https://exch.cx/?ref=cB6FAbd7)
+  - [Fixed Float](https://ff.io)
+  - [Boltz Exchange](https://boltz.exchange)
