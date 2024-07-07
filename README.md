@@ -95,3 +95,16 @@ A VPN da Mullvad é reconhecida por sua forte ênfase em privacidade, com polít
 A ProtonVPN é um serviço de VPN baseado na Suíça, conhecido por seu foco em privacidade e segurança robusta, oferecendo criptografia avançada e políticas rigorosas de não registro de dados de usuário.
 - Aceita pagamento em Criptoativos (Bitcoin)
 - [Código aberto](https://github.com/ProtonVPN)
+
+## Cliente Torrent
+Um bom cliente de torrent é essencial para downloads rápidos e seguros, garantindo integridade dos arquivos e privacidade durante o compartilhamento de dados na internet.
+
+### [qBittorrent](https://www.qbittorrent.org)
+qBittorrent é um cliente de torrent de código aberto e gratuito, conhecido pela sua simplicidade, eficiência e ausência de anúncios.
+- [Código aberto](https://github.com/qbittorrent)
+- Sem anúncios
+- Gratuito
+
+**Observação:**
+
+Para preservar a privacidade ao usar um cliente torrent, é fundamental utilizar uma VPN. Ela oculta seu endereço IP, criptografa o tráfego de dados e protege contra possíveis monitoramentos, assegurando um compartilhamento de arquivos mais seguro.
