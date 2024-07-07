@@ -4,20 +4,66 @@ Instituições privadas e estatais estão observando e registrando suas atividad
 ## Sistema operacional
 Usar sistemas operacionais de código aberto é essencial para garantir transparência, segurança e controle sobre dados pessoais, protegendo a privacidade online de forma eficaz.
 
-### [Linux Debian](https://www.debian.org)
+### [Debian](https://www.debian.org)
 O Debian é uma distribuição de Linux conhecida pela estabilidade, segurança e suporte a múltiplas arquiteturas, sendo amplamente utilizada tanto em servidores quanto em desktops.
 - [Código aberto](https://salsa.debian.org/qa)
 - Fácil configuração
+- Linux
 
 ### [Linux Mint](https://linuxmint.com)
 O Linux Mint é uma distribuição baseada no Ubuntu, apreciada por sua interface intuitiva e recursos completos, ideal para usuários que buscam uma experiência Linux robusta e acessível.
 - [Código aberto](https://github.com/linuxmint)
 - Fácil configuração
+- Linux
 
-### [Linux Pop!_OS](https://pop.system76.com)
+### [Pop!_OS](https://pop.system76.com)
 O Pop!_OS é uma distribuição Linux desenvolvida pela System76, destacando-se pelo desempenho otimizado, foco na produtividade e integração de ferramentas modernas para uma experiência de usuário aprimorada.
 - [Código aberto](https://github.com/system76)
 - Fácil configuração
+- Linux
+
+## Navegador da Web
+Usar um navegador com foco em privacidade é crucial para proteger seus dados pessoais contra rastreamento e garantir uma experiência online mais segura.
+
+### [LibreWolf](https://librewolf.net)
+O Librewolf é um navegador baseado no Firefox, focado em privacidade e segurança, com configurações aprimoradas para proteger usuários contra rastreamento e monitoramento de dados pessoais.
+- [Código aberto](https://codeberg.org/librewolf)
+- Bloqueio de telemetria
+- Bloqueador de anúncios incluído
+- Proteção contra rastreamento
+
+### [Brave](https://brave.com)
+O Brave é um navegador rápido, seguro e focado em privacidade, que bloqueia anúncios intrusivos e rastreadores, oferecendo uma experiência de navegação mais privada e eficiente.
+- [Código aberto](https://github.com/brave)
+- Bloqueio de telemetria
+- Bloqueador de anúncios incluído
+- Proteção contra rastreamento
+
+## Gerenciador de senhas
+Usar um gerenciador de senhas é essencial para proteger suas contas online com senhas únicas e seguras, fortalecendo a segurança digital pessoal.
+
+### [KeePassXC](https://keepassxc.org)
+KeePassXC é um gerenciador de senhas de código aberto, projetado para armazenar e organizar senhas de forma segura, oferecendo criptografia robusta e funcionalidades avançadas para proteção de dados pessoais.
+- [Código aberto](https://github.com/keepassxreboot)
+- Auto-custódia
+- Criptografado
+
+### [Bitwarden](https://bitwarden.com)
+Bitwarden é um gerenciador de senhas de código aberto e seguro, que armazena e sincroniza senhas de forma criptografada, garantindo acesso seguro a contas online em vários dispositivos.
+- [Código aberto](https://github.com/bitwarden)
+- Plano gratuito
+- Criptografado
+
+**Observação:**
+
+Utilizar um gerenciador de senhas como o KeePassXC, que armazena dados localmente e não depende de um banco de dados na internet, geralmente é considerado mais seguro devido à redução do potencial de exposição a violações de segurança online. No entanto, este modelo possui algumas desvantagens, como a falta de sincronização automática entre dispositivos e a dependência da segurança física do dispositivo onde está instalado.
+
+Por outro lado, gerenciadores de senhas baseados em nuvem, como o Bitwarden, oferecem conveniência ao sincronizar automaticamente senhas em múltiplos dispositivos e permitir acesso fácil de qualquer lugar. No entanto, eles estão sujeitos a potenciais vulnerabilidades de segurança online, como violações de dados e ataques cibernéticos.
+
+Em resumo:
+- KeePassXC (local): Mais seguro contra violações online, dependência da segurança física do dispositivo, menos conveniente para sincronização.
+- Bitwarden (na nuvem): Mais conveniente para sincronização entre dispositivos, potencialmente mais vulnerável a violações de segurança online.
+
 
 ## E-mail
 Usar serviços de email criptografados e privados protege suas comunicações contra espionagem e vazamentos, garantindo maior segurança e privacidade online.
