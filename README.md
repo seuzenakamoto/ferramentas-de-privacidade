@@ -1,11 +1,29 @@
 # Ferramentas de Privacidade v0.1 (07/07/2024)
 Instituições privadas e estatais estão observando e registrando suas atividades online. Esta página disponibiliza serviços, ferramentas e guias de privacidade para enfrentar a vigilância global em massa.
 
+## Sistema operacional
+Usar sistemas operacionais de código aberto é essencial para garantir transparência, segurança e controle sobre dados pessoais, protegendo a privacidade online de forma eficaz.
+
+### [Linux Debian](https://www.debian.org)
+O Debian é uma distribuição de Linux conhecida pela estabilidade, segurança e suporte a múltiplas arquiteturas, sendo amplamente utilizada tanto em servidores quanto em desktops.
+- [Código aberto](https://salsa.debian.org/qa)
+- Fácil configuração
+
+### [Linux Mint](https://linuxmint.com)
+O Linux Mint é uma distribuição baseada no Ubuntu, apreciada por sua interface intuitiva e recursos completos, ideal para usuários que buscam uma experiência Linux robusta e acessível.
+- [Código aberto](https://github.com/linuxmint)
+- Fácil configuração
+
+### [Linux Pop!_OS](https://pop.system76.com)
+O Pop!_OS é uma distribuição Linux desenvolvida pela System76, destacando-se pelo desempenho otimizado, foco na produtividade e integração de ferramentas modernas para uma experiência de usuário aprimorada.
+- [Código aberto](https://github.com/system76)
+- Fácil configuração
+
 ## E-mail
-Encontre as principais opções de serviços de e-mail que priorizam a privacidade para garantir a segurança das suas comunicações. Mantenha seus dados confidenciais protegidos com recursos avançados de criptografia e segurança.
+Usar serviços de email criptografados e privados protege suas comunicações contra espionagem e vazamentos, garantindo maior segurança e privacidade online.
 
 ### [Proton Mail](https://proton.me)
-Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo criptografia ponta a ponta, criptografia de acesso zero, antiphishing, antispam e 2FA. Possui aplicativos Android, iOS e interface web. Planos pagos permitem domínios personalizados. Acessível através da rede Tor. Mais de 100 milhões de usuários. Com sede na Suíça, fundada em 2013.
+ProtonMail é um serviço de email focado em privacidade, oferecendo criptografia de ponta a ponta, sem anúncios e base na Suíça, garantindo segurança e confidencialidade para seus usuários.
 - Aceita pagamento em Criptoativos (Bitcoin)
 - Site acessível através da rede Tor
 - [Código aberto](https://github.com/ProtonMail)
@@ -13,19 +31,21 @@ Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo c
 - Criptografado
 
 ### [Tuta Mail](https://tuta.com)
-Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo criptografia ponta a ponta, criptografia de acesso zero, antiphishing, antispam e 2FA. Possui aplicativos Android, iOS, Windows, macOS e interface web. Com sede na Alemanha, fundada em 2011.
+Tutanota é um serviço de email focado em segurança e privacidade, oferecendo criptografia de ponta a ponta, sem anúncios e código aberto, ideal para proteger comunicações pessoais e profissionais.
 - Aceita pagamento em Criptoativos (Bitcoin, Monero)
 - [Código aberto](https://github.com/tutao)
 - Plano gratuito
 - Criptografado
 
 ## VPN
+Usar VPN é crucial para proteger sua privacidade online, criptografar dados sensíveis e acessar conteúdos restritos com segurança e privacidade.
+
 ### [Mullvad VPN](https://mullvad.net)
-Baseado na Suécia. Em operação desde 2009. Aceita Monero, Bitcoin, BCH e Cash. Não é necessário e-mail para criar uma conta. 883 servidores VPN, em 39 países diferentes.
+A VPN da Mullvad é reconhecida por sua forte ênfase em privacidade, com políticas rigorosas de não registro de atividades e suporte a pagamentos anônimos, garantindo segurança e proteção de dados online.
 - Aceita pagamento em Criptoativos (Bitcoin, Monero)
 - [Código aberto](https://github.com/mullvad)
 
 ### [Proton VPN](https://protonvpn.com)
-Com sede na Suíça. Em operação desde 2016. 1700 servidores VPN disponíveis em 60 países diferentes.
+A ProtonVPN é um serviço de VPN baseado na Suíça, conhecido por seu foco em privacidade e segurança robusta, oferecendo criptografia avançada e políticas rigorosas de não registro de dados de usuário.
 - Aceita pagamento em Criptoativos (Bitcoin)
 - [Código aberto](https://github.com/ProtonVPN)
