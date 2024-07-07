@@ -124,7 +124,7 @@ Sparrow é uma carteira de software de criptomoedas focada em segurança e usabi
 ### Swaps
 Não é exigido criar conta nos serviços mencionados abaixo.
 - Bitcoin Lightning Network para Bitcoin On-chain
-  - [eXch](http://exch.cx/?ref=34118562)
+  - [eXch](https://exch.cx/?ref=34118562)
 - Bitcoin Liquid Network para Bitcoin On-chain
   - [Boltz Exchange](https://boltz.exchange)
 - Bitcoin BEP20 para Bitcoin On-chain
