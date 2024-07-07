@@ -104,7 +104,19 @@ qBittorrent é um cliente de torrent de código aberto e gratuito, conhecido pel
 - [Código aberto](https://github.com/qbittorrent)
 - Sem anúncios
 - Gratuito
-
+- 
 **Observação:**
 
 Para preservar a privacidade ao usar um cliente torrent, é fundamental utilizar uma VPN. Ela oculta seu endereço IP, criptografa o tráfego de dados e protege contra possíveis monitoramentos, assegurando um compartilhamento de arquivos mais seguro.
+
+## Bitcoin
+### [SeedPicker](https://github.com/merland/seedpicker)
+O método SeedPicker é uma abordagem segura para criar seed phrases de criptomoedas, priorizando transparência e aleatoriedade para garantir a segurança e proteção das carteiras digitais.
+
+### [Hardware Wallet SeedSigner](https://seedsigner.com)
+O SeedSigner é um projeto de código aberto que facilita a geração segura de seed phrases para carteiras de hardware, enfatizando a privacidade e a segurança pessoal.
+- [Código aberto](https://github.com/SeedSigner)
+
+### [Software Wallet Sparrow](https://sparrowwallet.com)
+Sparrow é uma carteira de software de criptomoedas focada em segurança e usabilidade, oferecendo controle total das chaves privadas e suporte para várias moedas digitais.
+- [Código aberto](https://github.com/sparrowwallet)
