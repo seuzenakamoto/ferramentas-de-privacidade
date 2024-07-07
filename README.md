@@ -128,4 +128,4 @@ Não é exigido criar conta nos serviços mencionados abaixo.
 - Bitcoin Liquid Network para Bitcoin On-chain
   - [Boltz Exchange](https://boltz.exchange)
 - Bitcoin BEP20 para Bitcoin On-chain
-  - [Fixed Float](https://ff.io)
+  - [Fixed Float](https://ff.io/?ref=h1fgezeb)
