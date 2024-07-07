@@ -11,9 +11,6 @@ Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo c
 - [Código aberto](https://github.com/ProtonMail)
 - Plano gratuito
 - Criptografado
-- Android
-- iOS
-- Web
 
 ### [Tuta Mail](https://tuta.com)
 Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo criptografia ponta a ponta, criptografia de acesso zero, antiphishing, antispam e 2FA. Possui aplicativos Android, iOS, Windows, macOS e interface web. Com sede na Alemanha, fundada em 2011.
@@ -21,11 +18,6 @@ Os planos gratuitos e pagos incluem todos os recursos de segurança, incluindo c
 - [Código aberto](https://github.com/tutao)
 - Plano gratuito
 - Criptografado
-- Android
-- iOS
-- Windows
-- macOS
-- Web
 
 ## VPN
 ### [Mullvad VPN](https://mullvad.net)
