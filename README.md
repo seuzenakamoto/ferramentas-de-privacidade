@@ -39,6 +39,19 @@ O Brave é um navegador rápido, seguro e focado em privacidade, que bloqueia an
 - Bloqueador de anúncios incluído
 - Proteção contra rastreamento
 
+## Motores de busca
+Um motor de busca que prioriza a privacidade protege suas informações pessoais, evita rastreamento e garante buscas sem coleta de dados.
+
+### [DuckDuckGo](https://duckduckgo.com)
+DuckDuckGo é um motor de busca que protege sua privacidade, não rastreia usuários e não coleta dados pessoais. Além disso, apoia diversos projetos de código aberto, promovendo a uma internet mais livre.
+- Sem rastreadores
+- Sem registros
+
+### [Brave Search](https://search.brave.com)
+Brave Search é um motor de busca que valoriza a privacidade, não rastreia usuários e não coleta dados pessoais, oferecendo resultados imparciais e transparentes.
+- Sem rastreadores
+- Sem registros
+
 ## Gerenciador de senhas
 Usar um gerenciador de senhas é essencial para proteger suas contas online com senhas únicas e seguras, fortalecendo a segurança digital pessoal.
 
