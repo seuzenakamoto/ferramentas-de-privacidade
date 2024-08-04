@@ -64,6 +64,23 @@ Em resumo:
 - KeePassXC (local): Mais seguro contra violações online, dependência da segurança física do dispositivo, menos conveniente para sincronização.
 - Bitwarden (na nuvem): Mais conveniente para sincronização entre dispositivos, potencialmente mais vulnerável a violações de segurança online.
 
+## Autenticação de dois fatores
+Autenticação de dois fatores (2FA) aumenta a segurança adicionando uma camada extra de proteção. Usar um aplicativo para 2FA é preferível ao SMS, pois o número de celular pode ser clonado, enquanto aplicativos são mais seguros e difíceis de comprometer.
+
+### [Aegis](https://getaegis.app)
+Aegis é um aplicativo de autenticação de dois fatores de código aberto, gerando códigos temporários online e offline. Oferece segurança robusta sem depender de SMS.
+- [Código aberto](https://github.com/beemdevelopment)
+- Pode gerar códigos offline
+- Backup criptografado
+- Gratuito
+
+### [2FAS Auth](https://2fas.com)
+O 2FAS Auth é um aplicativo de autenticação de dois fatores de código aberto que gera códigos temporários para aumentar a segurança das suas contas.
+- [Código aberto](https://github.com/twofas)
+- Pode gerar códigos offline
+- Backup criptografado
+- Gratuito
+
 ## E-mail
 Usar serviços de email criptografados e privados protege suas comunicações contra espionagem e vazamentos, garantindo maior segurança e privacidade online.
 
