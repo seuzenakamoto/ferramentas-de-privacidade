@@ -1,4 +1,4 @@
-# Ferramentas de Privacidade v0.1 (07/07/2024)
+# Ferramentas de Privacidade v0.1 (03/08/2024)
 Instituições privadas e estatais estão observando e registrando suas atividades online. Esta página disponibiliza serviços, ferramentas e guias de privacidade para enfrentar a vigilância global em massa.
 
 ## Sistema operacional
@@ -64,7 +64,6 @@ Em resumo:
 - KeePassXC (local): Mais seguro contra violações online, dependência da segurança física do dispositivo, menos conveniente para sincronização.
 - Bitwarden (na nuvem): Mais conveniente para sincronização entre dispositivos, potencialmente mais vulnerável a violações de segurança online.
 
-
 ## E-mail
 Usar serviços de email criptografados e privados protege suas comunicações contra espionagem e vazamentos, garantindo maior segurança e privacidade online.
 
@@ -92,9 +91,18 @@ A VPN da Mullvad é reconhecida por sua forte ênfase em privacidade, com polít
 - [Código aberto](https://github.com/mullvad)
 
 ### [Proton VPN](https://protonvpn.com)
-A ProtonVPN é um serviço de VPN baseado na Suíça, conhecido por seu foco em privacidade e segurança robusta, oferecendo criptografia avançada e políticas rigorosas de não registro de dados de usuário.
+A ProtonVPN é um serviço de VPN sediado na Suíça, conhecido por seu foco em privacidade e segurança robusta, oferecendo criptografia avançada e políticas rigorosas de não registro de dados de usuário.
 - Aceita pagamento em Criptoativos (Bitcoin)
 - [Código aberto](https://github.com/ProtonVPN)
+
+## DNS
+Usar DNS criptografado mantém sua navegação online segura, protege sua privacidade e evita que terceiros monitorem seu tráfego online.
+
+### [Quad9](https://quad9.net)
+O Quad9 oferece serviços de DNS gratuitos focados em segurança e privacidade. Bloqueia acesso a sites maliciosos, protege contra ameaças e não rastreia informações pessoais dos usuários.
+- Gratuito
+- Sediado na Suíça
+- Sem registros
 
 ## Cliente Torrent
 Um bom cliente de torrent é essencial para downloads rápidos e seguros, garantindo integridade dos arquivos e privacidade durante o compartilhamento de dados na internet.
@@ -111,14 +119,14 @@ Para preservar a privacidade ao usar um cliente torrent, é fundamental utilizar
 
 ## Bitcoin
 ### [SeedPicker](https://github.com/merland/seedpicker)
-O método SeedPicker é uma abordagem segura para criar seed phrases de criptomoedas, priorizando transparência e aleatoriedade para garantir a segurança e proteção das carteiras digitais.
+O método SeedPicker é uma abordagem segura para criar seed phrases de Bitcoin, priorizando transparência e aleatoriedade para garantir a segurança e proteção das carteiras digitais.
 
 ### [Hardware Wallet SeedSigner](https://seedsigner.com)
 O SeedSigner é um projeto de código aberto que facilita a geração segura de seed phrases para carteiras de hardware, enfatizando a privacidade e a segurança pessoal.
 - [Código aberto](https://github.com/SeedSigner)
 
 ### [Software Wallet Sparrow](https://sparrowwallet.com)
-Sparrow é uma carteira de software de criptomoedas focada em segurança e usabilidade, oferecendo controle total das chaves privadas e suporte para várias moedas digitais.
+Sparrow é uma carteira de software de criptomoedas focada em segurança e usabilidade, oferecendo controle total das chaves privadas.
 - [Código aberto](https://github.com/sparrowwallet)
 
 ### Swaps
