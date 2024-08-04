@@ -43,7 +43,7 @@ O Brave é um navegador rápido, seguro e focado em privacidade, que bloqueia an
 Um motor de busca que prioriza a privacidade protege suas informações pessoais, evita rastreamento e garante buscas sem coleta de dados.
 
 ### [DuckDuckGo](https://duckduckgo.com)
-DuckDuckGo é um motor de busca que protege sua privacidade, não rastreia usuários e não coleta dados pessoais. Além disso, apoia diversos projetos de código aberto, promovendo a uma internet mais livre.
+DuckDuckGo é um motor de busca que protege sua privacidade, não rastreia usuários e não coleta dados pessoais. Além disso, apoia diversos projetos de código aberto, promovendo uma internet mais livre.
 - Sem rastreadores
 - Sem registros
 
